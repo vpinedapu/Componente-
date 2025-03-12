@@ -1,0 +1,326 @@
+.area-installed {
+    position: absolute;
+    top: 3.2px;
+    left: 0px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    width: 121px;
+    height: 20.8px;
+}
+.spanmuitypography-root {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    height: 28px;
+}
+.than-last-year {
+    position: absolute;
+    top: 2.4px;
+    left: 0px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    width: 139px;
+    height: 16.8px;
+}
+.spanmuitypography-root1 {
+    position: absolute;
+    width: 100%;
+    top: 32px;
+    right: 0px;
+    left: 0px;
+    height: 22px;
+    font-size: 14px;
+    color: #637381;
+}
+.divmuicardheader-content {
+    position: absolute;
+    top: calc(50% - 15px);
+    left: 24px;
+    width: 659.4px;
+    height: 54px;
+}
+.div {
+    position: absolute;
+    top: calc(50% - 8.6px);
+    left: 8px;
+    line-height: 22px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32.7px;
+    height: 16.8px;
+}
+.imgmargin-icon {
+    position: absolute;
+    height: calc(100% - 14px);
+    width: calc(100% - 44.3px);
+    top: 7px;
+    right: 3.97px;
+    bottom: 7px;
+    left: 40.33px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.button {
+    position: absolute;
+    top: calc(50% - 15px);
+    left: 0px;
+    border-radius: 8px;
+    background-color: #f4f6f8;
+    width: 64.3px;
+    height: 30px;
+}
+.divmuicardheader-action {
+    position: absolute;
+    top: -4px;
+    left: 0px;
+    width: 64.3px;
+    height: 30px;
+}
+.divmuicardheader-actionmargi {
+    position: absolute;
+    top: 24px;
+    left: 683.4px;
+    width: 56.3px;
+    height: 22px;
+    text-align: center;
+    font-size: 14px;
+}
+.divmuicardheader-root {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    height: 78px;
+}
+.svgjsrect8786-icon {
+    position: absolute;
+    height: 27.47%;
+    width: 13.97%;
+    top: 0%;
+    right: 86.03%;
+    bottom: 72.53%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.svgjstext8860 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+.svgjstext8863 {
+    position: absolute;
+    top: 19.1%;
+    left: 0%;
+}
+.svgjstext8866 {
+    position: absolute;
+    top: 38.19%;
+    left: 26.32%;
+}
+.svgjstext8869 {
+    position: absolute;
+    top: 57.29%;
+    left: 26.32%;
+}
+.svgjstext8872 {
+    position: absolute;
+    top: 76.39%;
+    left: 26.32%;
+}
+.svgjstext8875 {
+    position: absolute;
+    top: 95.48%;
+    left: 63.16%;
+}
+.svgjsg8858 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.svgjsg8857 {
+    position: absolute;
+    height: 79.12%;
+    width: 2.65%;
+    top: 11.68%;
+    right: 95.01%;
+    bottom: 9.2%;
+    left: 2.34%;
+}
+.svgjsline8787-icon {
+    position: absolute;
+    height: 88.42%;
+    top: 2.57%;
+    bottom: 9%;
+    left: 1.57%;
+    max-height: 100%;
+    width: 0px;
+    opacity: 0;
+}
+.svgjsg8805-icon {
+    position: absolute;
+    height: 88.1%;
+    width: 96.72%;
+    top: 2.89%;
+    right: 1.72%;
+    bottom: 9%;
+    left: 1.57%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.svgjsg8808-icon {
+    position: absolute;
+    height: 88.42%;
+    width: 96.72%;
+    top: 2.57%;
+    right: 1.72%;
+    bottom: 9%;
+    left: 1.57%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.svgjsg8790-icon {
+    position: absolute;
+    height: 93.57%;
+    width: 97.76%;
+    top: 0%;
+    right: 1.42%;
+    bottom: 6.43%;
+    left: 0.82%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.svgjsline8817-icon {
+ 
+
+}
+.svgjstext8825 {
+    position: absolute;
+    top: 0%;
+    left: 8.79%;
+}
+.svgjstext8828 {
+    position: absolute;
+    top: 0%;
+    left: 17.51%;
+}
+.svgjstext8831 {
+    position: absolute;
+    top: 0%;
+    left: 26.45%;
+}
+.svgjstext8834 {
+    position: absolute;
+    top: 0%;
+    left: 34.94%;
+}
+.svgjstext8837 {
+    position: absolute;
+    top: 0%;
+    left: 43.96%;
+}
+.svgjstext8840 {
+    position: absolute;
+    top: 0%;
+    left: 53.05%;
+}
+.svgjstext8843 {
+    position: absolute;
+    top: 0%;
+    left: 61.39%;
+}
+.svgjstext8846 {
+    position: absolute;
+    top: 0%;
+    left: 70.26%;
+}
+.svgjstext8849 {
+    position: absolute;
+    top: 0%;
+    left: 79.13%;
+}
+.svgjstext8852 {
+    position: absolute;
+    top: 0%;
+    left: 87.77%;
+}
+.svgjstext8855 {
+    position: absolute;
+    top: 0%;
+    left: 96.56%;
+}
+.svgjsg8819 {
+    position: absolute;
+    height: 4.82%;
+    width: 100%;
+    top: 95.18%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.svgjsg8783 {
+    position: absolute;
+    height: 85.44%;
+    width: 93.65%;
+    top: 12.09%;
+    right: 1.44%;
+    bottom: 2.47%;
+    left: 4.92%;
+    text-align: center;
+    font-size: 12px;
+}
+.svg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 716px;
+    height: 364px;
+    overflow: hidden;
+}
+.divcss-10rh3y2 {
+    position: absolute;
+    width: calc(100% - 48px);
+    top: 102px;
+    right: 24px;
+    left: 24px;
+    height: 379px;
+    text-align: right;
+    font-size: 11px;
+    color: #919eab;
+    font-family: Inter;
+}
+.divmuipaper-root {
+    width: 100%;
+    position: relative;
+    box-shadow: 0px 0px 2px rgba(145, 158, 171, 0.2), 0px 12px 24px -4px rgba(145, 158, 171, 0.12);
+    border-radius: 16px;
+    background-color: #fff;
+    height: 505px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 18px;
+    color: #212b36;
+    font-family: 'Public Sans';
+}
+
+.contenedor {
+    max-width: 800px;
+    margin: 0 auto;
+}
